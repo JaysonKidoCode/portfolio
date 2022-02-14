@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(bg.jpg)no-repeat;
+    background: url(https://wallpaperaccess.com/full/2880315.jpg)no-repeat;
     background-size: cover;
 }
 .box{
@@ -34,5 +34,19 @@ body{
 }
 .box-p{
     text-align: justify;
-    
+
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+.box li a{
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
 }
